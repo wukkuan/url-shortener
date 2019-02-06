@@ -1,0 +1,8 @@
+{
+  "name": "kapost-interview-exercise",
+  "version": "1.0.0",
+  "description": "URL shortener",
+  "main": "index.js",
+  "author": "William Blasko <william@williamblasko.com>",
+  "license": "MIT"
+}
